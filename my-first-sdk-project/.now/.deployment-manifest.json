@@ -1,0 +1,41 @@
+{
+  "files": [
+    {
+      "status": "DEPLOYED",
+      "current_hash": "b9354a1af79113efdbc8ba717467b9ed",
+      "path": "dictionary/x_1313261_my_1_sdk_to_do.xml",
+      "deploy_hash": "b9354a1af79113efdbc8ba717467b9ed",
+      "modulePath": ""
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "1c3f0928abc29a7ab6504569563a41e4",
+      "path": "sys_app_5094f6cd471602101222962f316d434d.xml",
+      "deploy_hash": "1c3f0928abc29a7ab6504569563a41e4",
+      "modulePath": ""
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "6b805a489aea551cf339810411d1723b",
+      "path": "update/sys_module_package_json.xml",
+      "deploy_hash": "6b805a489aea551cf339810411d1723b",
+      "modulePath": "x_1313261_my_1_sdk/my-first-sdk-project/0.0.1/package.json"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "03ddd96163b6c2250a9841ede642252c",
+      "path": "update/sys_module_src_myfunction_js.xml",
+      "deploy_hash": "03ddd96163b6c2250a9841ede642252c",
+      "modulePath": "x_1313261_my_1_sdk/my-first-sdk-project/0.0.1/src/myfunction.js"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "ae691c54ad62a3dffb7d51b8c522eb84",
+      "path": "update/sys_script_9ed4ddd9717b4f8386e7e5a5ae08af4b.xml",
+      "deploy_hash": "ae691c54ad62a3dffb7d51b8c522eb84",
+      "modulePath": ""
+    }
+  ],
+  "packageJsonHash": "e282e67e3812d639534341832892b1bb",
+  "register_scope": false
+}

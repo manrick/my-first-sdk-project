@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<unload>
+  <sys_script action="INSERT_OR_UPDATE">
+    <action_delete>false</action_delete>
+    <action_insert>false</action_insert>
+    <action_update>true</action_update>
+    <active>true</active>
+    <collection>x_1313261_my_1_sdk_to_do</collection>
+    <name>LogItemChange</name>
+    <order>100</order>
+    <script><![CDATA[	
+    const { showStatusUpdate } = require('./src/myfunction.js')
+	  showStatusUpdate(current.getValue('status'), previous.getValue('status'))
+]]></script>
+    <sys_id>9ed4ddd9717b4f8386e7e5a5ae08af4b</sys_id>
+    <sys_scope display_value="x_1313261_my_1_sdk">5094f6cd471602101222962f316d434d</sys_scope>
+    <when>after</when>
+  </sys_script>
+</unload>
